@@ -1,0 +1,14 @@
+{
+	"name": "translate-cloudflare",
+	"version": "1.0.0",
+	"author": "Weglot <support@weglot.com>",
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^4.44.0"
+	},
+	"packageManager": "yarn@4.9.1"
+}
